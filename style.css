@@ -1,0 +1,110 @@
+body{
+    border: 4px solid gray;
+    padding-block-end: 60px;
+    margin: 20px;
+    padding: 20px;
+
+
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid red;
+    background-color: #34434c; 
+}
+.hem{
+    color: red;
+}
+.services{
+    color: white;
+}
+.om{
+    color: white;
+}
+h1{
+    color: brown;
+    
+}
+nav{
+    background-image: url(./img/showcase.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+
+
+
+}
+h2{
+    flex-wrap: wrap;
+    font-size: 50px;
+    
+}
+aside{
+    background-color: #34434c;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px 120px;
+
+}
+div button {
+    background-color: red;
+    
+}
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: aliceblue;
+
+
+
+
+}
+.topp {
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.middel{
+    text-align: center;
+}
+.down{
+    text-align: center;
+
+}
+h4{
+    font-size: larger;
+}
+h5{
+    font-size: larger;
+}
+h6{
+    font-size: larger;
+}
+footer{
+    background-color: red;
+    text-align: center;
+    padding-top: 20px;
+    height: 80px;
+}
+nav{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box-upp{
+    display: flex;
+    gap: 60px;
+}
+
